@@ -1,5 +1,5 @@
 .odd {
-  color-background: #FFC2C2;
+  background-color: #FFC2C2;
   font-family: "Verdana", "DejaVu Sans", sans-serif;
   font-size: 12px;
 }
@@ -15,6 +15,6 @@
 
 #four {
   font-weight: bold;
-  color-background: green;
+  background-color: green;
   font-size: 20px;
 }
